@@ -272,9 +272,9 @@ export default function About() {
                 </CardHeader>
                 <CardContent>
                   <p className='text-gray-500 dark:text-gray-400'>
-                    "The coffee at Brew Cafe is simply divine. The baristas are true
-                    artists, and the atmosphere is cozy and inviting. I can't get enough
-                    of their signature blends!"
+                    The coffee at Brew Cafe is simply divine. The baristas are true
+                    artists, and the atmosphere is cozy and inviting. I can&apos;t get enough
+                    of their signature blends!
                   </p>
                 </CardContent>
               </Card>
@@ -293,9 +293,9 @@ export default function About() {
                 </CardHeader>
                 <CardContent>
                   <p className='text-gray-500 dark:text-gray-400'>
-                    "I've been a loyal customer of Brew Cafe for years. The quality of
+                    Image I&apos;ve been a loyal customer of Brew Cafe for years. The quality of
                     their coffee is unparalleled, and the service is always top-notch.
-                    It's my go-to spot for a perfect caffeine fix."
+                    It&apos;s my go-to spot for a perfect caffeine fix.Image
                   </p>
                 </CardContent>
               </Card>
@@ -314,10 +314,10 @@ export default function About() {
                 </CardHeader>
                 <CardContent>
                   <p className='text-gray-500 dark:text-gray-400'>
-                    "Brew Cafe has become a daily ritual for me. The coffee is
+                    ImageBrew Cafe has become a daily ritual for me. The coffee is
                     consistently excellent, and the staff is always friendly and
-                    knowledgeable. It's the perfect spot to start my day or catch up
-                    with friends."
+                    knowledgeable. It&apos;s the perfect spot to start my day or catch up
+                    with friends.Image
                   </p>
                 </CardContent>
               </Card>
