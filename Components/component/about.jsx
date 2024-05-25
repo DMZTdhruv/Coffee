@@ -4,6 +4,7 @@ import { AvatarImage, AvatarFallback, Avatar } from '@/components/ui/avatar';
 import { CardHeader, CardContent, Card } from '@/components/ui/card';
 import Image from 'next/image';
 
+
 export default function About() {
   return (
     <div className='flex flex-col min-h-[100dvh]'>
